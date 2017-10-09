@@ -1,0 +1,17 @@
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.exe.config
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\obj\Debug\_1043337_HW5.Form1.resources
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\obj\Debug\_1043337_HW5.Properties.Resources.resources
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.csproj.GenerateResource.Cache
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.exe
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.pdb
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.exe
+C:\Users\yan li jia\Desktop\作業\視窗\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.pdb
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.exe.config
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.exe
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\bin\Debug\1043337-HW5.pdb
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.csprojResolveAssemblyReference.cache
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\_1043337_HW5.Form1.resources
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\_1043337_HW5.Properties.Resources.resources
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.csproj.GenerateResource.Cache
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.exe
+C:\Users\yan li jia\Desktop\大學履歷\1043337-HW5\1043337-HW5\obj\Debug\1043337-HW5.pdb
